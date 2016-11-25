@@ -21,7 +21,7 @@ SECRET_KEY = 'x9!@z1#4%rjvws93z9($v@7dxi^qvv0(yqnb@e(!k+aob*fjjb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [immense-forest-41258.herokuapp.com]
 
 
 # Application definition
